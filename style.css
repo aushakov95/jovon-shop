@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #4da6ff;
+    color: white;
+    padding: 1.3em;
+}
+
+main {
+    margin-top: 5em;
+}
+.rounded-card {
+    margin-top: 3em;
+    padding: 3em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    font-size: 20px;
+}
+
+#alert-sign {
+    border-left: 6px solid #ff9966;
+    background-color: #fff3e6;
+    padding: 1em;
+}
+
+#warning-sign-icon {
+    color: #ff9966;
+}
+
+img {
+    margin-top: 3em;
+}
+
+#main-section {
+    /*border-left: 6px solid #4da6ff;*/
+    background-color: #ffffff;
+}
+
+br {
+    margin-bottom: 2em !important;
+}
+
+footer {
+    margin-top: 3em;
+    background-color: #4da6ff;
+    color: white;
+}
