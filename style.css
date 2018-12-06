@@ -20,6 +20,10 @@ main {
     padding: 1em;
 }
 
+#we-offer {
+    margin-top: 3em;
+}
+
 #warning-sign-icon {
     color: #ff9966;
 }
@@ -31,6 +35,20 @@ img {
 #main-section {
     /*border-left: 6px solid #4da6ff;*/
     background-color: #ffffff;
+}
+
+.offered-items-list {
+    margin-top: 2em;
+    font-size: 20px;
+    text-align: center;
+    padding: 1em;
+    color: #4da6ff;
+}
+
+.separator {
+    background-color: #0e0a35;
+    height: 1px;
+    margin-top: 1em;
 }
 
 br {
