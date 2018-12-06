@@ -20,6 +20,10 @@ main {
     padding: 1em;
 }
 
+#amazon-button {
+    margin-top: 0em;
+}
+
 #we-offer {
     margin-top: 3em;
 }
