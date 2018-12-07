@@ -1,7 +1,17 @@
 .navbar {
-    background-color: #4da6ff;
+    background-color: #ffffff;
     color: white;
-    padding: 1.3em;
+    height: 120px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.navbar-brand {
+    height: 229px;
+}
+
+#logo {
+    top: 0;
+    height: 100px;
 }
 
 main {
@@ -15,21 +25,33 @@ main {
 }
 
 #alert-sign {
-    border-left: 6px solid #ff9966;
+    border-left: 6px solid 	#FEB019;
     background-color: #fff3e6;
     padding: 1em;
 }
 
+#amazon-link {
+    text-decoration: underline;
+    color: inherit;
+}
+
+.btn {
+    border: none;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
 #amazon-button {
     margin-top: 0em;
+    height: 50px;
 }
 
 #we-offer {
+    color: 	#C9034E;
     margin-top: 3em;
 }
 
 #warning-sign-icon {
-    color: #ff9966;
+    color: 	#FEB019;
 }
 
 img {
@@ -46,7 +68,7 @@ img {
     font-size: 20px;
     text-align: center;
     padding: 1em;
-    color: #4da6ff;
+    color: #0089D1;
 }
 
 .separator {
@@ -55,12 +77,16 @@ img {
     margin-top: 1em;
 }
 
+#about-us {
+    color: 	#C9034E;
+}
+
 br {
     margin-bottom: 2em !important;
 }
 
 footer {
     margin-top: 3em;
-    background-color: #4da6ff;
+    background-color: #0089D1;
     color: white;
 }
