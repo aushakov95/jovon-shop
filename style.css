@@ -1,8 +1,12 @@
 body {
+    /*
     background: rgb(173,93,102);
     background: radial-gradient(circle at top, rgba(173,93,102,1) 0%, rgba(93,19,56,1) 100%);
+    */
+    background: rgb(210,155,161);
+    background: radial-gradient(circle at top, rgba(210,155,161,1) 0%, rgba(93,19,56,1) 40%);
     background-repeat:no-repeat, repeat, repeat;
-    color: white;
+    color: #FFF8F7;
 }
 
 #top-banner {
@@ -25,7 +29,20 @@ body {
 
 #banner-img {
     margin-top: 3em;
-    border: 5px solid white;
+    border: 5px solid #FFF8F7;
+}
+
+#products {
+    margin-top: 3em;
+    padding: 3em;
+    background-color: #FFF8F7;
+    color:  rgba(93,19,56,1);
+}
+
+.product-card {
+    margin-top: 2em;
+    padding: 2em;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 .rounded-card {
